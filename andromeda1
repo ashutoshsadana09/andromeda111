@@ -1,0 +1,15 @@
+{
+    "name": "andrew russel",
+    "description": "kolkatta night riders",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.espncricinfo.com%2Fcricketers%2Fandre-russell-276298&psig=AOvVaw30LERoKij9vQPQo-17efEp&ust=1712517832677000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC2p52oroUDFQAAAAAdAAAAABAE",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
